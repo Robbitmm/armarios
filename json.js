@@ -5,10 +5,10 @@ armarios = [
         "numero": 2,
         "prateleira": [1, 2, 3, 4],
         "itens": [
-                    ["Chave combinada (935405) 6 - 11 mm"],
-                    ["Chave combinada (935405) 12 - 32 mm"],
-                    ["Chave de boca (885656) 6 - 32 mm"],
-                    ["Chave de boca (885656) 6 - 28 mm"]
+                    ["Chave combinada (935405) 6 - 11mm"],
+                    ["Chave combinada (935405) 12 - 32mm"],
+                    ["Chave de boca (885656) 6 - 32mm"],
+                    ["Chave de boca (885656) 6 - 28mm"]
                 ]
     },
     {
@@ -26,14 +26,14 @@ armarios = [
                      'Martelo bola (2x)',
                      'Martelo borracha (1x)',
                      'Marreta (1x)',
-                     'Chave Allen 0,55 - 12 mm',
+                     'Chave Allen 0,55 - 12mm',
                      'Chave Allen 1/16" - 1 1/2"',
                      'Talhadeira 120mm',
                      'Punsão (2x)',
                      'Saca pino Ø4,15 - Ø6 (3x)'
                     ],
                     [ //Prateleira 2
-                     'Chave catraca (soquetes de 9 - 24 mm)',
+                     'Chave catraca (soquetes de 9 - 24mm)',
                      'Junta universal (2x)',
                      'Extensor (2x)',
                      'Grifo 250mm (885660) (2x)',
